@@ -9,6 +9,7 @@ import { Component } from '@angular/core';
         <p>
           This project was created to help represent a fundamental app written
           with Angular. The shopping theme is used throughout the app.
+           Cloned for testing by Praveen Chinthala
         </p>
         <br />
         <h2 class="title">Resources</h2>
