@@ -1,3 +1,5 @@
+[![Azure Static Web Apps CI/CD](https://github.com/praveenchintala/my-static-web-app/actions/workflows/azure-static-web-apps-white-rock-078665710.yml/badge.svg?branch=main)](https://github.com/praveenchintala/my-static-web-app/actions/workflows/azure-static-web-apps-white-rock-078665710.yml)
+
 ---
 page_type: sample
 languages:
